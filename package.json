@@ -1,0 +1,26 @@
+{
+  "name": "cae-demo",
+  "version": "1.0.0",
+  "description": "基于Koa的MVC框架实例",
+  "main": "app.js",
+  "author": "Rodey Luo",
+  "license": "MIT",
+  "dependencies": {
+    "cae": "^1.0.5",
+    "got": "^9.3.2",
+    "winston": "^3.1.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "ejs": "^2.6.1",
+    "moment": "^2.22.2",
+    "nodemon": "^1.18.7",
+    "uid-safe": "^2.1.5"
+  },
+  "scripts": {
+    "dev": "cross-env NODE_ENV=dev nodemon app.js",
+    "prd": "cross-env NODE_ENV=prd nodemon app.js",
+    "start": "yarn run dev",
+    "build": "yarn run prd"
+  }
+}

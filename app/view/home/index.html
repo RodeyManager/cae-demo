@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Welcome use Cae</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/assets/css/app.css">
+</head>
+
+<body>
+
+  <h1 class="title">{{ message }}</h1>
+  <p><img src="/assets/images/light-icon.png" class="logo" alt=""></p>
+
+  <form style="display: none;">
+    <select name="city" id="city">
+      {% for city in cities %}
+      <option value="{{ city.city_code }}">{{ city.city_name }}</option>
+      {% endfor %}
+    </select>
+  </form>
+
+  <script src="/assets/js/main.js"></script>
+</body>
+
+</html>
