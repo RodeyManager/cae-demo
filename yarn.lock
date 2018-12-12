@@ -852,9 +852,9 @@ cacheable-request@^5.1.0:
     responselike "^1.0.2"
 
 cae@^1.0.5:
-  version "1.0.5"
-  resolved "http://registry.npm.taobao.org/cae/download/cae-1.0.5.tgz#129a5aaaf636c3186cbfaff634d5d0a7c8c0b234"
-  integrity sha1-EppaqvY2wxhsv6/2NNXQp8jAsjQ=
+  version "1.0.6"
+  resolved "http://registry.npm.taobao.org/cae/download/cae-1.0.6.tgz#4255c69e36f0efe16eb49bcce785b6f8296772e6"
+  integrity sha1-QlXGnjbw7+FutJvM54W2+ClncuY=
   dependencies:
     babel-plugin-transform-async-to-generator "^6.24.1"
     babel-preset-env "^1.7.0"
@@ -904,14 +904,14 @@ camelcase@^4.0.0:
   integrity sha1-1UVjW+HjPFQmScaRc+Xeas+uNN0=
 
 caniuse-db@^1.0.30000634, caniuse-db@^1.0.30000639:
-  version "1.0.30000916"
-  resolved "http://registry.npm.taobao.org/caniuse-db/download/caniuse-db-1.0.30000916.tgz#44556ba3f7360a4e103950fc58cc98b74d253da1"
-  integrity sha1-RFVro/c2Ck4QOVD8WMyYt00lPaE=
+  version "1.0.30000918"
+  resolved "http://registry.npm.taobao.org/caniuse-db/download/caniuse-db-1.0.30000918.tgz#650a34372ced440a79fa600644667802c6a4b9c2"
+  integrity sha1-ZQo0NyztRAp5+mAGRGZ4AsakucI=
 
 caniuse-lite@^1.0.30000844:
-  version "1.0.30000916"
-  resolved "http://registry.npm.taobao.org/caniuse-lite/download/caniuse-lite-1.0.30000916.tgz#3428d3f529f0a7b2bfaaec65e796037bdd433aab"
-  integrity sha1-NCjT9Snwp7K/quxl55YDe91DOqs=
+  version "1.0.30000918"
+  resolved "http://registry.npm.taobao.org/caniuse-lite/download/caniuse-lite-1.0.30000918.tgz#6288f79da3c5c8b45e502f47ad8f3eb91f1379a9"
+  integrity sha1-Yoj3naPFyLReUC9HrY8+uR8Teak=
 
 capture-stack-trace@^1.0.0:
   version "1.0.1"
@@ -1450,9 +1450,9 @@ ejs@^2.6.1:
   integrity sha1-SY7A1JVlWrxvI81hho2SZGQHGqA=
 
 electron-to-chromium@^1.2.7, electron-to-chromium@^1.3.47:
-  version "1.3.88"
-  resolved "http://registry.npm.taobao.org/electron-to-chromium/download/electron-to-chromium-1.3.88.tgz#f36ab32634f49ef2b0fdc1e82e2d1cc17feb29e7"
-  integrity sha1-82qzJjT0nvKw/cHoLi0cwX/rKec=
+  version "1.3.90"
+  resolved "http://registry.npm.taobao.org/electron-to-chromium/download/electron-to-chromium-1.3.90.tgz#b4c51b8303beff18f2b74817402bf4898e09558a"
+  integrity sha1-tMUbgwO+/xjyt0gXQCv0iY4JVYo=
 
 enabled@1.0.x:
   version "1.0.2"
@@ -2694,9 +2694,9 @@ minipass@^2.2.1, minipass@^2.3.4:
     yallist "^3.0.0"
 
 minizlib@^1.1.1:
-  version "1.2.0"
-  resolved "http://registry.npm.taobao.org/minizlib/download/minizlib-1.2.0.tgz#59517387478fd98d8017ed0299c6cb16cbd12da3"
-  integrity sha1-WVFzh0eP2Y2AF+0CmcbLFsvRLaM=
+  version "1.2.1"
+  resolved "http://registry.npm.taobao.org/minizlib/download/minizlib-1.2.1.tgz#dd27ea6136243c7c880684e8672bb3a45fd9b614"
+  integrity sha1-3SfqYTYkPHyIBoToZyuzpF/ZthQ=
   dependencies:
     minipass "^2.2.1"
 
@@ -3999,9 +3999,9 @@ winston@^3.1.0:
     winston-transport "^4.2.0"
 
 wkx@^0.4.1:
-  version "0.4.5"
-  resolved "http://registry.npm.taobao.org/wkx/download/wkx-0.4.5.tgz#a85e15a6e69d1bfaec2f3c523be3dfa40ab861d0"
-  integrity sha1-qF4VpuadG/rsLzxSO+PfpAq4YdA=
+  version "0.4.6"
+  resolved "http://registry.npm.taobao.org/wkx/download/wkx-0.4.6.tgz#228ab592e6457382ea6fb79fc825058d07fce523"
+  integrity sha1-Ioq1kuZFc4Lqb7efyCUFjQf85SM=
   dependencies:
     "@types/node" "*"
 
