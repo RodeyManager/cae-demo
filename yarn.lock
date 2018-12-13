@@ -851,10 +851,10 @@ cacheable-request@^5.1.0:
     normalize-url "^3.1.0"
     responselike "^1.0.2"
 
-cae@^1.0.5:
-  version "1.0.6"
-  resolved "http://registry.npm.taobao.org/cae/download/cae-1.0.6.tgz#4255c69e36f0efe16eb49bcce785b6f8296772e6"
-  integrity sha1-QlXGnjbw7+FutJvM54W2+ClncuY=
+cae@^1.0.61:
+  version "1.0.61"
+  resolved "http://registry.npm.taobao.org/cae/download/cae-1.0.61.tgz#70259339da5a1a379305ae2e112d11f4fd66304e"
+  integrity sha1-cCWTOdpaGjeTBa4uES0R9P1mME4=
   dependencies:
     babel-plugin-transform-async-to-generator "^6.24.1"
     babel-preset-env "^1.7.0"

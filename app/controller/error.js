@@ -7,7 +7,7 @@ const {
 class ErrorController extends BaseController {
 
   async index(query) {
-    this.render('error/404');
+    this.render('error/404', {});
   }
 
 }

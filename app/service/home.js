@@ -9,7 +9,7 @@ class HomeService extends BaseService {
   async getCities() {
     let res;
     try {
-      res = await this.app.fetch.sojson.get('_city.json');
+      res = await this.P.sojson.get('_city.json');
     } catch (e) {
       console.error('Fetch get [_city.json]: ', e.message);
     }

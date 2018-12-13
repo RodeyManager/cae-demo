@@ -3,6 +3,7 @@
 const {
   BaseController
 } = require('cae');
+
 class HomeController extends BaseController {
 
   async index(query) {

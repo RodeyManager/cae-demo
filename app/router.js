@@ -2,8 +2,8 @@
 
 module.exports = app => {
   return [{
-      path: 'error/404',
-      action: 'error.action404'
+      path: '/error/404',
+      action: 'error.index'
     },
     {
       path: '/',
